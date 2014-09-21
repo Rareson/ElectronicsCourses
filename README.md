@@ -41,5 +41,20 @@ Notes
 ### Electronics_II_ch1_1_12
 	I encountered a major problem here. Transistor (maybe) has no direct mapping in Simulink library, although there is although
 	there is a Three-Level Bridge there. I'll try Proteus from here.
+	
+### Electronics_II_ch1_1_11_d
+	Because ch1_1_12 switch to Proteus, I use ch1_1_11_d to test. As noticed, the generic Diode should represents the 
+	Silicon diode, which consumes about 0.7V. Considering this, the simulation is successful.
+	
+### Electronics_II_ch1_1_12_2
+	This is a test for the current. When I set it to 1A, the voltage meter shows 15V. But I don't
+	know the reason behind it.
 
-
+### Electronics_II_ch1_1_15_a
+	Notice that the potential is realized by DC from generator mode. Actually the result should be determined by the output
+	graph of the transistor. For this transistor is stopped, the Ib should be 0 while here Ib~10^(-7), which is close
+	to zero. Maybe this works. Wait.... should we use voltage to determine the result? well, this is another way.
+	
+### Electronics_II_ch1_1_15_c
+	From the current value of Ib, Ic, we see the transistor is working. But the voltage meter shows 0V, which should
+	be 3V. Need to be investigated further.
