@@ -5,6 +5,9 @@ Programms for my electronics courses.
 
 This is for proofread of my homework. They are built with Simulink.
 
+[![image]](http://www.mathworks.com/index.html?s_tid=gn_logo)
+[image]: http://www.mathworks.com/includes_content/nextgen/images/bg_header_mwlogo_notag.jpg "github"
+
 The names of these slx files should explain which problems they are related to.
 
 The scope near the shematic shows the result. I offer a snapshot for every model so you can preview the result.
@@ -12,6 +15,8 @@ The scope near the shematic shows the result. I offer a snapshot for every model
 Preview
 -------------------
 ![github](https://github.com/Rareson/ElectronicsCourses/blob/master/Electronics_II_ch1_1_10_b.png "github")
+
+![github](https://github.com/Rareson/ElectronicsCourses/blob/master/Electronics_II_ch1_1_11_d.png "github")
 
 
 
