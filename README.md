@@ -14,6 +14,8 @@ The scope near the shematic shows the result. I offer a snapshot for every model
 
 Some further explanations are provided by Max on [his blog](http://romax.me/). 
 
+You can always have the newest version of this repository by visiting https://github.com/Rareson/ElectronicsCourses
+
 Preview
 -------------------
 ![github](https://github.com/Rareson/ElectronicsCourses/blob/master/Electronics_II_ch1_1_10_b.png "github")
