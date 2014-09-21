@@ -12,6 +12,8 @@ The names of these slx files should explain which problems they are related to.
 
 The scope near the shematic shows the result. I offer a snapshot for every model so you can preview the result.
 
+Some further explanations are provided by Max on [his blog](http://romax.me/). 
+
 Preview
 -------------------
 ![github](https://github.com/Rareson/ElectronicsCourses/blob/master/Electronics_II_ch1_1_10_b.png "github")
