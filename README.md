@@ -35,5 +35,9 @@ Notes
 
 ### Electronics_II_ch1_1_11_c
 	The current is quite small for Diode2 but it is through.
+	
+### Electronics_II_ch1_1_12
+	I encountered a major problem here. Transistor (maybe) has no direct mapping in Simulink library, although there is although
+	there is a Three-Level Bridge there. I'll try Proteus from here.
 
 
