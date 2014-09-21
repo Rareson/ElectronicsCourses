@@ -1,4 +1,26 @@
 ElectronicsCourses
 ==================
 
-Programms for my electronics courses
+Programms for my electronics courses.
+
+This is for proofread of my homework. They are built with Simulink.
+
+The names of these slx files should explain which problems they are related to.
+
+The scope near the shematic shows the result. I offer a snapshot for every model so you can preview the result.
+
+Notes
+-----------------
+
+Electronics_II_ch1_1_9_a, Electronics_II_ch1_1_9_b, Electronics_II_ch1_1_10_b, Electronics_II_ch1_1_10_c use SimPowerSystem. 
+And I made ideal switch enabled.
+
+And the following models use Simscape elements.
+
+However, with Simscape I found nothing like ideal elements. And I need to use Diode so I set the forward voltage to 0.01V.
+The result is quite satisfactory.
+
+### Electronics_II_ch1_1_11_c
+	The current is quite small for Diode2 but it is through.
+
+
