@@ -58,3 +58,4 @@ Notes
 ### Electronics_II_ch1_1_15_c
 	From the current value of Ib, Ic, we see the transistor is working. But the voltage meter shows 0V, which should
 	be 3V. Need to be investigated further.
+	But successfully worked with Multisim. The voltage is 3V.
