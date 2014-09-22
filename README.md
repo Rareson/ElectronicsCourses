@@ -55,7 +55,9 @@ Notes
 	graph of the transistor. For this transistor is stopped, the Ib should be 0 while here Ib~10^(-7), which is close
 	to zero. Maybe this works. Wait.... should we use voltage to determine the result? well, this is another way.
 	
+	Solution: The above result is due to the mode in Proteus, which only allows two extreme conditions.
+	
 ### Electronics_II_ch1_1_15_c
 	From the current value of Ib, Ic, we see the transistor is working. But the voltage meter shows 0V, which should
-	be 3V. Need to be investigated further.
+	be 3V. Need to be investigated further.(see the Solution of Electronics_II_ch1_1_15_a.)
 	But successfully worked with Multisim. The voltage is 3V.
